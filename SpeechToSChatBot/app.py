@@ -1,3 +1,5 @@
+# Libraries necessary
+!pip install gradio gtts transformers groq openai-whisper pyttsx3
 import os
 import gradio as gr
 from gtts import gTTS
