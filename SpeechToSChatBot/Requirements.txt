@@ -1,5 +1,9 @@
-#Libraries necessary
-!pip install gradio gtts transformers groq openai-whisper pyttsx3
+gradio 
+gtts 
+transformers
+groq
+openai-whisper 
+pyttsx3
 
 
 
