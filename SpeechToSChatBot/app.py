@@ -6,7 +6,7 @@ from groq import Groq
 
 # Set up Groq API client
 client = Groq(
-    api_key="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",
+    api_key="Your qroq api key here",
 )
 
 # Load Whisper model
